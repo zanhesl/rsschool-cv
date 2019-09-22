@@ -113,3 +113,10 @@ if __name__ == '__main__':
 	main()
 
 ```
+### Education
+Third-year ITMO student(ICT department), also took a number of front-end HTMLAcademy
+courses on JavaScript and HTML&CSS.
+
+I am currently studying English in my University on C2 level(passed C1 examination
+successfully) and constantly trying to improve it by reading literature(both
+professional and imaginative) and conversating with people.
