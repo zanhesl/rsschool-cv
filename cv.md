@@ -24,9 +24,9 @@ Despite having rather insufficient working experience, I have done a few front-e
 and python projects, which could be found on my personal Github page. It contains
 both learning and developing ones.
 ### Code Example:
-This is my small project for parsing balance of many Yandex.Money accounts ob Python3:
+This is my small project for parsing balance of many Yandex.Money accounts on Python3:
 
-```Python3
+```Python
 import mechanize
 import http.cookiejar
 import requests
